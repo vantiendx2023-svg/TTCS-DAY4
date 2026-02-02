@@ -1,0 +1,6 @@
+Bt2.c:90:5:main	16	static
+Bt2.c:117:8:delay	16	static
+Bt2.c:128:15:buzzer_Init	16	static
+Bt2.c:157:15:button_Init	16	static
+Bt2.c:188:15:buzzerControlSetStatus	16	static
+Bt2.c:206:13:buttonReadStatus	24	static
